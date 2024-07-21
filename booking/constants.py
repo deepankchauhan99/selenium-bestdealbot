@@ -1,0 +1,9 @@
+BASE_URL = "https://www.booking.com"
+CURRENCY = "USD"
+PLACE_TO_GO = "Goa"
+CHECK_IN_DATE = "2024-07-27"
+CHECK_OUT_DATE = "2024-07-29"
+ADULTS = 2
+CHILDREN = {1: 10, 2: 5}
+ROOMS = 2
+STARS = [3, 4, 5]
